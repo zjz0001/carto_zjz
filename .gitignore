@@ -1,6 +1,6 @@
-devel/
+devel_isolated/
 logs/
-build/
+.vscode/
 bin/
 lib/
 msg_gen/
@@ -41,6 +41,7 @@ qtcreator-*
 /planning/cfg
 /planning/docs
 /planning/src
+
 
 *~
 
